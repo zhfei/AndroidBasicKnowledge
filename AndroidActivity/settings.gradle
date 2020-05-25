@@ -1,0 +1,3 @@
+include ':kaixinxiaoxiaole'
+include ':app'
+rootProject.name = "AndroidActivity"
